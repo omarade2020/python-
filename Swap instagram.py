@@ -1,6 +1,4 @@
 import webbrowser
-webbrowser.open('https://t.me/m33kx')
-webbrowser.open('https://t.me/m33kx')
 import requests , threading
 from uuid import uuid4
 import json
@@ -17,7 +15,7 @@ print("""
  | |_) | |_| | | |  | |___) |__) | . \ / . \ 
  |____/ \__, | |_|  |_|____/____/|_|\_\_/ \_\
          __/ |                               
-        |___/                Swap < @m33kx_!!                   
+        |___/                Swap < @8.91.7!!                   
         """)
 username = input("[+] Username : ")
 password = input("[+] Password : ")
